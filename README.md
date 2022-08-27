@@ -1,0 +1,2 @@
+# Hotel-Bookings-Data-analysis
+I started the project with importing dataset from the Alpha hotel. Then I moved to other features like Lead time, year, booking cancelled ,months etc. I could find some patterns between price and month and year, hotels and parking space. This project contains the real world data record of hotel bookings of a city and a resort hotel containing details like bookings, cancellations, guest details etc. from 2015 to 2017. Main aim of the project is to understand and visualize dataset from hotel and customer point of view
